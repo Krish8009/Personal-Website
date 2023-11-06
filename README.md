@@ -1,13 +1,6 @@
-# Topaz
-[![Actions Status](https://github.com/Naresh1318/topaz/workflows/Topaz/badge.svg)](https://github.com/Naresh1318/Topaz/actions)
-
-<p align=center>
-    <img src="https://files.naresh1318.com/public/topaz/index.png" alt="simplyServe"/>
-    <p align="center"> <b>A configurable, easy to maintain personal website</b> </p>
-</p>
 
 
-**Live example**: https://naresh1318.com
+**Live example**
 
 After working on a project the last thing I usually think of is updating my personal website. 
 Adding links, images, description and pushing changes to the server every single time I work 
